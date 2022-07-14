@@ -1,0 +1,18 @@
+[
+  {
+    "birthday": "01012000",
+    "gender": "F",
+    "name": "Jung Pham 1",
+    "natid": "257-1234567890",
+    "salary": "4000",
+    "tax": "12"
+  },
+  {
+    "birthday": "01012001",
+    "gender": "M",
+    "name": "Jung Pham 2",
+    "natid": "257-1234567890",
+    "salary": "4000",
+    "tax": "11"
+  }
+]

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Oppenheimer Project">
+    <test name="Opportunity Regression">
+        <parameter name="browser" value="Chrome"/>
+        <parameter name="url" value="http://localhost:8080/"/>
+        <classes>
+            <class name="oppenheimerProject.OppenheimerProjectRegressionTestRunner"/>
+        </classes>
+    </test>
+</suite>
